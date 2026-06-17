@@ -1,4 +1,4 @@
-public class practise{
+public class Practise{
     public static void main (String[]args){
         String Name = "Vijay"; 
         String Branch = "cse";
