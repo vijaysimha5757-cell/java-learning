@@ -1,6 +1,6 @@
 # Java Learning
 
-Learning Java from scratch.
+Learning Java fundamentals and data structures through daily practice.
 
 ## Day 01
 - Variables
@@ -10,3 +10,9 @@ Learning Java from scratch.
 ## Day 02
 - Arithmetic Operators
 - Increment Operators
+
+## Day 03
+- For Loops
+- While Loops
+- If Statements
+- Loop-based problem solving
